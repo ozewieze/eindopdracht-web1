@@ -1,1 +1,1 @@
-# eindopdracht web1 essentials
+# eindopdracht web1 essentials eerste jaar programmeren Artevelde Hogeschool
